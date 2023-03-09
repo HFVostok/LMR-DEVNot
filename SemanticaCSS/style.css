@@ -2,6 +2,66 @@ body {
     background-color: rgb(152, 178, 179);
 }
 
+.Login {
+    font-family:fantasy;
+color: rgb(218, 158, 61);
+}
+
+.login{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+outline: 0;
+background: rgb(177, 83, 49);
+width: 100%;
+border: 0;
+margin: 0 0 35px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 20px;
+}
+
+
+#Contatos h1{
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.Contatos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: 0;
+    background: rgb(177, 83, 49);
+    width: 100%;
+    border: 0;
+    margin: 0 0 35px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 20px;
+    }
+
+
+.login{
+position: relative;
+z-index: 1;
+background: rgb(66, 111, 147);
+max-width: 500px;
+margin: 0 auto 100px;
+padding: 20px;
+text-align: left;
+box-shadow: 0 0 20px rgb(66, 111, 147), 0 5px 5px 0 rgba(71,71,136,1);
+}
+
+.Contatos{
+    position: relative;
+    z-index: 1;
+    background: rgb(66, 111, 147);
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 0 0 20px rgb(66, 111, 147), 0 5px 5px 0 rgba(71,71,136,1);
+    }
+
 #Login {
     background: rgb(0,212,255);
 background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(71,71,136,1) 49%, rgba(2,0,36,1) 84%);
@@ -50,3 +110,4 @@ background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(71,71,136,1) 49%, 
     font-family: 'Times New Roman', Times, serif;
     color: azure;
 }
+
